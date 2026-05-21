@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads latest Global Secure Access Client</string>
+	<string>Downloads latest Global Secure Access Client.</string>
 	<key>Identifier</key>
 	<string>com.github.42loris.download.GlobalSecureAccessClient</string>
 	<key>Input</key>
@@ -14,7 +14,7 @@
         <string>https://aka.ms/GlobalSecureAccess-macOS</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>1.1</string>
+	<string>1.0</string>
 	<key>Process</key>
 	<array>
         <dict>
