@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest Global Secure Access Client disk image and imports into Munki.</string>
+	<string>Downloads the latest Global Secure Access Client and imports into Munki.</string>
 	<key>Identifier</key>
 	<string>com.github.42loris.munki.GlobalSecureAccessClient</string>
 	<key>Input</key>
@@ -32,8 +32,7 @@
 	<string>1.0</string>
 	<key>ParentRecipe</key>
     <string>com.github.42loris.download.GlobalSecureAccessClient</string>
-	<key>Process</key>
-	<array>
+	<key>Process</key>  
     <array>
         <dict>
             <key>Arguments</key>
